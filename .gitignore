@@ -1,0 +1,12 @@
+node_modules/
+.next/
+out/
+*.tsbuildinfo
+.env*
+!.env.example
+ozonium-original.*
+playwright-report/
+test-results/
+original-data.json
+route-content.json
+scripts/extract-original.mjs

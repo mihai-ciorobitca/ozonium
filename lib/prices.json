@@ -1,0 +1,437 @@
+{
+  "consultatii": [
+    {
+      "category": "Ortopedie – Traumatologie",
+      "items": [
+        {
+          "name": "Consultație inițială",
+          "price": "300 lei"
+        },
+        {
+          "name": "Consultație de control",
+          "price": "200 lei"
+        },
+        {
+          "name": "Referat medical",
+          "price": "200 lei"
+        }
+      ]
+    },
+    {
+      "category": "Neurologie",
+      "items": [
+        {
+          "name": "Consultație inițială",
+          "price": "300 lei"
+        },
+        {
+          "name": "Consultație de control",
+          "price": "200 lei"
+        },
+        {
+          "name": "Evaluare vestibulară",
+          "price": "300 lei"
+        },
+        {
+          "name": "Ecografia Doppler vase cervicale",
+          "price": "250 lei"
+        },
+        {
+          "name": "Referat medical",
+          "price": "200 lei"
+        }
+      ]
+    },
+    {
+      "category": "Medicină fizică și recuperare medicală",
+      "items": [
+        {
+          "name": "Consultație inițială",
+          "price": "300 lei"
+        },
+        {
+          "name": "Consultație de control",
+          "price": "200 lei"
+        },
+        {
+          "name": "Ecografie musculo-scheletală",
+          "price": "250 lei"
+        },
+        {
+          "name": "Referat medical",
+          "price": "200 lei"
+        }
+      ]
+    },
+    {
+      "category": "Psihologie clinică",
+      "items": [
+        {
+          "name": "Evaluare psihologică",
+          "price": "300 lei"
+        },
+        {
+          "name": "Consiliere psihologică",
+          "price": "300 lei"
+        },
+        {
+          "name": "Referat psihologie",
+          "price": "500 lei"
+        }
+      ]
+    }
+  ],
+  "recuperare": [
+    {
+      "category": "Kinetoterapie",
+      "items": [
+        {
+          "name": "Ședință de grup",
+          "price": "80 lei / ședință · 400 lei (5 ședințe) · 720 lei (10 ședințe)"
+        },
+        {
+          "name": "Ședință individuală",
+          "price": "150 lei / ședință · 700 lei (5 ședințe) · 1350 lei (10 ședințe)"
+        }
+      ]
+    },
+    {
+      "category": "Masaj",
+      "items": [
+        {
+          "name": "Masaj terapeutic 20 minute + ventuze",
+          "price": "150 lei / ședință · 700 lei (5 ședințe) · 1350 lei (10 ședințe)"
+        },
+        {
+          "name": "Masaj terapeutic (zonă – 15 minute)",
+          "price": "70 lei / ședință · 350 lei (5 ședințe) · 600 lei (10 ședințe)"
+        },
+        {
+          "name": "Masaj terapeutic 30 minute",
+          "price": "130 lei / ședință · 650 lei (5 ședințe) · 1200 lei (10 ședințe)"
+        },
+        {
+          "name": "Masaj terapeutic 50 minute",
+          "price": "180 lei / ședință · 900 lei (5 ședințe) · 1600 lei (10 ședințe)"
+        },
+        {
+          "name": "Masaj de relaxare (50 minute)",
+          "price": "150 lei / ședință · 700 lei (5 ședințe) · 1300 lei (10 ședințe)"
+        },
+        {
+          "name": "Reflexoterapie",
+          "price": "200 lei / ședință · 1000 lei (5 ședințe) · 1800 lei (10 ședințe)"
+        }
+      ]
+    },
+    {
+      "category": "Terapie Tecar",
+      "items": [
+        {
+          "name": "Tecar (15 minute)",
+          "price": "100 lei / ședință · 450 lei (5 ședințe) · 850 lei (10 ședințe)"
+        }
+      ]
+    },
+    {
+      "category": "Fizioterapie",
+      "items": [
+        {
+          "name": "Electrostimulare",
+          "price": "40 lei / ședință · 180 lei (5 ședințe) · 350 lei (10 ședințe)"
+        },
+        {
+          "name": "Electrostimulare și kinetoterapie",
+          "price": "100 lei / ședință · 400 lei (5 ședințe) · 900 lei (10 ședințe)"
+        },
+        {
+          "name": "Laser",
+          "price": "30 lei / ședință · 200 lei (5 ședințe) · 350 lei (10 ședințe)"
+        },
+        {
+          "name": "Ultrasunet",
+          "price": "30 lei / ședință · 200 lei (5 ședințe) · 350 lei (10 ședințe)"
+        },
+        {
+          "name": "TENS / curenți",
+          "price": "30 lei / ședință · 150 lei (5 ședințe) · 250 lei (10 ședințe)"
+        },
+        {
+          "name": "Magnetoterapie",
+          "price": "30 lei / ședință · 200 lei (5 ședințe) · 350 lei (10 ședințe)"
+        },
+        {
+          "name": "Drenaj limfatic (cu aparat)",
+          "price": "100 lei / ședință · 500 lei (5 ședințe) · 900 lei (10 ședințe)"
+        },
+        {
+          "name": "Pachet cu 4 proceduri timp de 10 zile (fără terapie Tecar și laser)",
+          "price": "110 lei / ședință · 550 lei (5 ședințe) · 1000 lei (10 ședințe)"
+        }
+      ]
+    },
+    {
+      "category": "Terapie manuală avansată",
+      "items": [
+        {
+          "name": "Terapie manuală",
+          "price": "200 lei / ședință · 900 lei (5 ședințe) · 1800 lei (10 ședințe)"
+        },
+        {
+          "name": "Terapie manuală + Tecar",
+          "price": "280 lei / ședință · 900 lei (5 ședințe) · 1800 lei (10 ședințe)"
+        },
+        {
+          "name": "Reechilibrare articulație temporo-mandibulară",
+          "price": "150 lei / ședință · 700 lei (5 ședințe) · 1300 lei (10 ședințe)"
+        },
+        {
+          "name": "Manipulare fascială cu instrumente IASTM",
+          "price": "200 lei / ședință · 900 lei (5 ședințe) · 1800 lei (10 ședințe)"
+        },
+        {
+          "name": "Terapie Yumeiho",
+          "price": "200 lei / ședință · 900 lei (5 ședințe) · 1800 lei (10 ședințe)"
+        }
+      ]
+    },
+    {
+      "category": "Recuperare funcțională avansată",
+      "items": [
+        {
+          "name": "Terapie vestibulară pentru amețeli și echilibru",
+          "price": "120 lei / ședință · 600 lei (5 ședințe) · 1000 lei (10 ședințe)"
+        },
+        {
+          "name": "Terapie manuală posturală",
+          "price": "200 lei / ședință · 900 lei (5 ședințe) · 1800 lei (10 ședințe)"
+        },
+        {
+          "name": "Evaluare posturală 3D (Sensor Medica, scanare 3D a coloanei)",
+          "price": "300 lei"
+        },
+        {
+          "name": "Pachet evaluare 3D + 5 ședințe terapie manuală",
+          "price": "1100 lei"
+        },
+        {
+          "name": "Pachet evaluare 3D + 10 ședințe terapie manuală",
+          "price": "2100 lei"
+        },
+        {
+          "name": "Talonete personalizate (confecționare după evaluare 3D)",
+          "price": "600 lei"
+        },
+        {
+          "name": "Recuperare D-Wall (gimnastică medicală computerizată)",
+          "price": "150 lei / ședință · 700 lei (5 ședințe) · 1300 lei (10 ședințe)"
+        }
+      ],
+      "note": "Evaluarea posturală 3D cu Sensor Medica poate fi completată prin confecționarea de talonete personalizate, realizate pe baza analizei computerizate. Acestea contribuie la corectarea mersului, echilibrului și prevenirea durerilor articulare și de coloană."
+    }
+  ],
+  "neurologie": [
+    {
+      "category": "Evaluare vestibulară",
+      "items": [
+        {
+          "name": "Evaluare vestibulară",
+          "price": "300 lei"
+        }
+      ]
+    },
+    {
+      "category": "Stimulare magnetică transcraniană (TMS)",
+      "items": [
+        {
+          "name": "Ședință individuală",
+          "price": "200 lei"
+        },
+        {
+          "name": "Pachet 10 ședințe",
+          "price": "1800 lei"
+        },
+        {
+          "name": "Pachet 20 ședințe",
+          "price": "3600 lei"
+        }
+      ]
+    },
+    {
+      "category": "Injectare toxina botulinică (fără ghidaj ecografic)",
+      "items": [
+        {
+          "name": "Blefarospasm",
+          "price": "900–1.100 lei"
+        },
+        {
+          "name": "Hemispasm facial",
+          "price": "900 - 1.100 lei"
+        },
+        {
+          "name": "Migrenă cronică",
+          "price": "1.600 - 1.800 lei"
+        }
+      ]
+    },
+    {
+      "category": "Injectare toxina botulinică (cu ghidaj ecografic)",
+      "items": [
+        {
+          "name": "Distonie focală",
+          "price": "1.200–1.400 lei"
+        },
+        {
+          "name": "Sialoree",
+          "price": "1.000-1.400 lei"
+        }
+      ],
+      "note": "Tarifele includ consultația pre-procedură, substanța utilizată (Xeomin sau Dysport), manopera și monitorizarea post-procedură."
+    },
+    {
+      "category": "Terapie de stimulare cognitivă asistată de computer (CCST)",
+      "items": [
+        {
+          "name": "Screening cognitiv",
+          "price": "300 lei"
+        },
+        {
+          "name": "Ședință 30 minute",
+          "price": "100 lei / ședință · 380 lei (4 ședințe) · 720 lei (8 ședințe) · 1.020 lei (12 ședințe)"
+        },
+        {
+          "name": "Ședință 40 minute",
+          "price": "120 lei / ședință · 460 lei (4 ședințe) · 880 lei (8 ședințe) · 1.260 lei (12 ședințe)"
+        },
+        {
+          "name": "Ședință 60 minute",
+          "price": "150 lei / ședință · 580 lei (4 ședințe) · 1.120 lei (8 ședințe) · 1.620 lei (12 ședințe)"
+        }
+      ]
+    },
+    {
+      "category": "Homeopatie neurologică (consultație + tratament)",
+      "items": [
+        {
+          "name": "Consultație inițială homeopatie neurologică",
+          "price": "250 lei"
+        },
+        {
+          "name": "Consultație de control / adaptare tratament",
+          "price": "150 lei"
+        }
+      ]
+    },
+    {
+      "category": "Acupunctură neurologică",
+      "items": [
+        {
+          "name": "Pachet 5 ședințe",
+          "price": "400 lei"
+        },
+        {
+          "name": "Pachet 10 ședințe",
+          "price": "700 lei"
+        }
+      ]
+    }
+  ],
+  "ozon": [
+    {
+      "category": "Oxigen-ozonoterapie",
+      "items": [
+        {
+          "name": "Autohemoterapie majoră",
+          "price": "300 lei"
+        },
+        {
+          "name": "Pachet 12 ședințe autohemoterapie majoră",
+          "price": "3000 lei"
+        },
+        {
+          "name": "Autohemoterapie minoră",
+          "price": "150 lei"
+        },
+        {
+          "name": "Infiltrații intraarticulare",
+          "price": "120 lei"
+        },
+        {
+          "name": "Infiltrații subcutane",
+          "price": "120 lei"
+        },
+        {
+          "name": "Pachet 12 ședințe infiltrații subcutanate",
+          "price": "1200 lei"
+        },
+        {
+          "name": "Aplicații locale cu sac",
+          "price": "200 lei"
+        },
+        {
+          "name": "Insuflații intrarectale",
+          "price": "150 lei"
+        }
+      ]
+    },
+    {
+      "category": "Saună cu ozon și masaj de relaxare",
+      "items": [
+        {
+          "name": "Ședință individuală",
+          "price": "180 lei"
+        },
+        {
+          "name": "Pachet 5 ședințe",
+          "price": "850 lei"
+        },
+        {
+          "name": "Pachet 10 ședințe",
+          "price": "1600 lei"
+        },
+        {
+          "name": "Saună cu ozon (cu masaj inclus, 30 minute)",
+          "price": "180 lei / ședință · 800 lei (5 ședințe) · 1500 lei (10 ședințe)"
+        }
+      ]
+    }
+  ],
+  "regenerative": [
+    {
+      "category": "Proceduri regenerative",
+      "items": [
+        {
+          "name": "Terapia cu plasmă îmbogățită (PRP)",
+          "price": "750 lei / eprubetă"
+        },
+        {
+          "name": "Ortoplasma",
+          "price": "500 lei / articulație"
+        },
+        {
+          "name": "Rigenera",
+          "price": "preț la cerere"
+        }
+      ]
+    }
+  ],
+  "perfuzii": [
+    {
+      "category": "Perfuzii intravenoase",
+      "items": [
+        {
+          "name": "Perfuzie NAD+",
+          "price": "500 lei"
+        },
+        {
+          "name": "Perfuzie glutation",
+          "price": "200 lei"
+        },
+        {
+          "name": "Perfuzie Vitamina C 7,5 grame",
+          "price": "250 lei"
+        }
+      ]
+    }
+  ]
+}

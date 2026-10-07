@@ -1,0 +1,429 @@
+[
+  {
+    "slug": "dr-victor-cucos",
+    "name": "Dr. Victor Cucoș",
+    "role": "Medic primar Ortopedie-Traumatologie",
+    "category": "Ortopedie",
+    "categorySlug": "ortopedie",
+    "photo": "/assets/figma/despre-doctor-victor.jpg",
+    "quote": "Durerea nu definește viitorul tău – vindecarea începe astăzi.",
+    "specializari": [
+      "Facultatea de Medicină, Universitatea de Stat de Medicină și Farmacie „Nicolae Testemițanu”, Chișinău, Republica Moldova",
+      "World Ozone Therapy Congress & 7th World Ozone Therapy Federation Meeting, București, 6–7 mai 2022",
+      "Participări la workshopuri, cursuri și certificări profesionale",
+      "Atestat de studii postuniversitare în Medicină Complementară – „Ozonoterapia în practica medicală” – certificat de competență",
+      "Certificare pentru utilizarea tehnologiei Rigenera, conform indicațiilor clinice desemnate, Iași, România, 10 octombrie 2019",
+      "Rigenera National Workshop – Open Session 2, București, România, 11 septembrie 2019 – participare",
+      "Rigenera National Workshop – Open Session 1, București, România, 10 septembrie 2019 – participare",
+      "Curs de Plasmolifting™ Gel în Cosmetologie, 6 noiembrie 2015 – certificare specialist",
+      "Curs de Plasmolifting™ în Cosmetologie și Tricologie, 6 noiembrie 2015 – certificare specialist",
+      "Curs de Plasmolifting™ în Ortopedie și Traumatologie, 5 noiembrie 2015 – certificare specialist"
+    ]
+  },
+  {
+    "slug": "dr-liliana-cucos",
+    "name": "Dr. Liliana Cucoș",
+    "role": "Medic primar Neurologie & Doctor în științe medicale",
+    "category": "Neurologie",
+    "categorySlug": "neurologie",
+    "photo": "/assets/figma/despre-doctor-liliana.jpg",
+    "quote": "Pentru mine, cel mai frumos rol al neurologiei este să redau pacienților echilibrul și speranța atunci când acestea par pierdute.",
+    "specializari": [
+      "Facultatea de Medicină, Universitatea de Stat de Medicină și Farmacie „Nicolae Testemițanu”, Chișinău, Republica Moldova",
+      "Atestat de studii complementare - Ultrasonografie Doppler Cerebrală, decembrie 2024",
+      "Curs postuniversitar - Ultrasonografia Doppler Cerebrală, UMF Carol Davila, Spitalul Universitar de Urgență București (module: 15.01.2024–26.01.2024, 18.03.2024–29.03.2024)",
+      "Evaluare și recuperare neuro-vestibulară – formator acreditat Framial, Franța – Ramona Pavel, 2024",
+      "Enhancing Adult Spasticity Management: Optimizing Treatment Techniques – live webinar cu experți internaționali, injecții live, sesiuni interactive, 24 noiembrie 2023",
+      "Curs postuniversitar național cu participare internațională – Sistemul vestibular: întrebări și răspunsuri. Abordare interdisciplinară a patologiei echilibrului, ediția a V-a, Iași, 22–24 iunie 2023",
+      "Injectare toxină botulinică – Workshop Enayati, București, mai 2023",
+      "Curs de Boala Parkinson și Tulburări de Mișcare, ediția a X-a, online, 25–27 noiembrie 2021",
+      "Webinar „Managing Botulinum Toxin Services Through COVID-19”, 7 mai 2020",
+      "Hands-on Sono Ultrasound Workshop, Sofia, Bulgaria, 13–14 iunie 2019",
+      "Workshop „Administrarea de neurotoxină botulinică cu ghidaj ecografic în distonia craniocervicală și sialoree”, Eforie Nord, 30 mai – 1 iunie 2019",
+      "Curs postuniversitar – Injectare cu toxină botulinică, Centrul Național Clinic de Recuperare Neuropsihomotorie pentru Copii „Dr. Nicolae Robănescu”, București, 2018",
+      "Program de mobilitate Leonardo da Vinci, Klinikum der Universität München – Neurochirurgische Klinik und Policlinik–Großhadern, Ludwig Maximilians Universität München, 2005",
+      "Curs internațional de Epilepsie, Ludwig Maximilians Universität München, 2005",
+      "Curs postuniversitar – Patologia trunchiului cerebral, UMF „Gr. T. Popa” Iași, 2005",
+      "Curs postuniversitar – Actualități terapeutice în prevenirea accidentelor vasculare cerebrale, UMF „Gr. T. Popa” Iași, 2004",
+      "International Congress of Parkinson’s Disease and Movement Disorders, Honolulu, Hawaii, 5–9 octombrie 2025",
+      "11th Congress of the European Academy of Neurology, Helsinki, Finlanda, 21–24 iunie 2025",
+      "10th Congress of the European Academy of Neurology, Helsinki, Finlanda, 29 iunie – 2 iulie 2024",
+      "The International Congress of Parkinson’s and Movement Disorders, Copenhaga, Danemarca, 27–31 august 2023",
+      "World Ozone Therapy Congress & 7th World Ozone Therapy Federation Meeting, București, 6–7 mai 2022",
+      "7th Congress of the European Academy of Neurology, virtual, 19–22 iunie 2021",
+      "Parkinson’s Disease Master Class, virtual, 22–23 aprilie 2021",
+      "5th Congress of the European Academy of Neurology, Oslo, Norvegia, iunie 2019",
+      "4th Congress of the European Academy of Neurology, Lisabona, Portugalia, 16–19 iunie 2018",
+      "World Congress on Neurology, Madrid, 27–29 martie 2017"
+    ]
+  },
+  {
+    "slug": "dr-carmen-alexandra-croitoru",
+    "name": "Dr. Carmen Alexandra Croitoru",
+    "role": "Medic specialist Neurologie",
+    "category": "Neurologie",
+    "categorySlug": "neurologie",
+    "photo": "/assets/figma/despre-doctor-carmen.jpg",
+    "quote": "Sănătatea reală este despre armonizarea științei cu conștiința, a simptomelor cu cauzele, a medicamentelor cu vindecarea naturală. Soluția mereu va fi tratarea omului în întregime: corp, minte, spirit, căutând rădăcina problemelor, înțelepciunea tratamentelor și echilibrul energetic.",
+    "specializari": [
+      "Absolventă a Universității de Medicină și Farmacie „Grigore T. Popa” din Iași",
+      "Atestat de Competență în Homeopatie Clinică și Etică Medicală",
+      "Atestat de Competență în Acupunctură",
+      "Evaluare și recuperare neuro-vestibulară – formator acreditat Framial, Franța – Ramona Pavel"
+    ]
+  },
+  {
+    "slug": "dr-alexandrina-matasa",
+    "name": "Dr. Alexandrina Matasă",
+    "role": "Medic specialist Neurologie",
+    "category": "Neurologie",
+    "categorySlug": "neurologie",
+    "photo": "/assets/figma/despre-echipa-alexandrina-matasa.jpg",
+    "quote": "Sănătatea ta este cea mai valoroasă investiție.",
+    "specializari": [
+      "Facultatea de Medicină, Universitatea de Stat de Medicină și Farmacie „Nicolae Testemițanu”, Chișinău, Republica Moldova",
+      "Cursul Postuniversitar Național „Sistemul vestibular: întrebări și răspunsuri”"
+    ]
+  },
+  {
+    "slug": "dr-diana-panait",
+    "name": "Dr. Diana Panait",
+    "role": "Medic primar Neurologie (ecografia Doppler vase cervicale)",
+    "category": "Neurologie",
+    "categorySlug": "neurologie",
+    "photo": "/assets/figma/despre-echipa-diana-panait.jpg",
+    "quote": "",
+    "specializari": [
+      "Universitatea de Medicină și Farmacie „Gr. T. Popa” Iași – Medicină Generală",
+      "2024: Curs EEG, Spitalul „Prof. Dr. Alexandru Obregia”, București",
+      "2018: Curs EEG, Spitalul Universitar de Urgență București",
+      "2018: Examen de atestat – Ultrasonografia Doppler cerebrală",
+      "2018: Curs de ultrasonografie cervico-cerebrală, SUUB",
+      "2018: Training – Tratamentul prin DBS al bolii Parkinson și al dischineziei, Cehia",
+      "Participări la manifestări științifice:",
+      "2023 – Al XXI-lea Congres al SNR, București",
+      "2023 – Conferința de Neuroștiințe „Zilele Medicale ale Spitalului Clinic Prof. Dr. N. Oblu”, Iași",
+      "2022 – Al XX-lea Congres al SNR, București",
+      "2021 – Al XIX-lea Congres al SNR, București",
+      "2020 – Al XVIII-lea Congres al SNR, București",
+      "2019 – Congresul Național de Neuroștiințe Moderne, Iași",
+      "2018 – Conferința de Neuroștiințe „Zilele Medicale ale Spitalului Clinic Prof. Dr. N. Oblu”, Iași",
+      "2016 – A XIX-a Conferință Internațională de Stroke, București",
+      "2016 – Al XIV-lea Congres al SNR, București",
+      "2015 – Al XIII-lea Congres al SNR, București",
+      "2014 – A XVIII-a Conferință Națională de Stroke, Brașov",
+      "2014 – Al XII-lea Congres al SNR, București",
+      "2013 – „Bolile cerebrovasculare și tulburările neurocognitive – dovezi clinice”, Conferință, Tg. Mureș",
+      "2010 – A 5-a Conferință Națională de Scleroză Multiplă, Iași",
+      "2009 – The 4th National MS Conference, Iași",
+      "2009 – A XII-a Conferință Națională de Stroke, Cluj-Napoca",
+      "2008 – A 3-a Conferință Națională de Scleroză Multiplă, Iași",
+      "2008 – A 8-a Conferință Națională de Aterotromboză, București",
+      "2007 – Program educațional pentru Managementul Epilepsiei „Epi-Expert 4”",
+      "2006 – A 2-a Conferință Națională de Scleroză Multiplă, Iași",
+      "2006 – Program Național pentru Managementul Epilepsiei „Epi Expert 3”"
+    ]
+  },
+  {
+    "slug": "dr-carolina-ciubara",
+    "name": "Dr. Carolina Ciubara",
+    "role": "Medic primar Neurologie",
+    "category": "Neurologie",
+    "categorySlug": "neurologie",
+    "photo": "/assets/figma/despre-doctor-ciubara.jpg",
+    "quote": "Împreună găsim soluții.",
+    "specializari": [
+      "Facultatea de Medicină, Universitatea de Stat de Medicină și Farmacie „Nicolae Testemițanu”, Chișinău, Republica Moldova",
+      "„Evaluare și Recuperare Neuro-Vestibulară”, Iași, 30 august – 3 septembrie 2024",
+      "„Declinul cognitiv: abordarea multidisciplinară”, platforma medichub.ro, 21.11.2023–17.09.2024",
+      "Curs de formare continuă pre-webinar național „Curs de neuroimunologie”, online, 18 noiembrie 2020",
+      "„Ghid practic de diagnostic și tratament al tulburărilor de echilibru”, platforma medichub.ro, 23.03.2019–31.12.2019",
+      "„Dimensiuni Clinico-Terapeutice în abordarea urgențelor psihiatrice”, Iași, 4 octombrie 2017",
+      "„Acizi grași, vitamine și minerale esențiale în neuropatie”, platforma cursurimedicale.ro, 24.11.2015–24.11.2016",
+      "„Vestibular Disorders and Vertigo Treatment Master Class” by Prof. Herman Kingma, Maastricht University, Olanda, 21 iunie 2014",
+      "„Abordarea pacienților cu tulburări de echilibru de cauză periferică”, platforma cursuri-medicale.ro, 01.07.2013–31.07.2014"
+    ]
+  },
+  {
+    "slug": "dr-anca-florentina-danila",
+    "name": "Dr. Anca Florentina Dănilă",
+    "role": "Medic primar Recuperare, medicină fizică și balneologie",
+    "category": "Recuperare medicală",
+    "categorySlug": "recuperare",
+    "photo": "/assets/figma/despre-echipa-anca-danila.jpg",
+    "quote": "Împreună redăm corpului mobilitatea și echilibrul, cu profesionalism și empatie în fiecare etapă a recuperării.",
+    "specializari": [
+      "Universitatea de Medicină și Farmacie „Grigore T. Popa” din Iași",
+      "Atestat „Ecografia musculoscheletală în recuperarea medicală”"
+    ]
+  },
+  {
+    "slug": "catalina-elena-balaniscu",
+    "name": "Cătălina Elena Balanișcu",
+    "role": "Psiholog clinician autonom",
+    "category": "Psihologie clinică",
+    "categorySlug": "psihologie",
+    "photo": "/assets/figma/despre-echipa-catalina-balaniscu.jpg",
+    "quote": "Viața este o continuă transformare, o poveste pe care o scriem în fiecare zi, pe care o rescriem peste ceva timp, descoperind noi sensuri ale experiențelor trecute, un roman de dragoste, de acțiune, un manifest sau orice alegem noi să scriem.",
+    "specializari": [
+      "Licență în Psihologie, Universitatea „Alexandru Ioan Cuza” Iași – Facultatea de Psihologie și Științe ale Educației, 2019–2022",
+      "Licență în Științe Politice, Universitatea „Alexandru Ioan Cuza” Iași – Facultatea de Filosofie și Științe Social-Politice, 2001–2005",
+      "Master în Psihologie clinică și psihoterapie, Universitatea „Alexandru Ioan Cuza” Iași, 2022–2024",
+      "Deteriorarea cognitivă a adultului – Asociația „Confident”, 10 credite profesionale (2025)",
+      "Prezența terapeutului – Asociația de Psihoterapie Centrată pe Emoții pentru Cuplu și Familie (2025)",
+      "Violența domestică – modele de intervenție pentru victime și agresori – Universitatea „Alexandru Ioan Cuza” Iași, 16 credite profesionale (2024)",
+      "ADHD la adulți – strategii de evaluare, intervenție și gândire clinică (2024)",
+      "Psihoterapia dependenței și codependenței – evaluare și intervenție sistemică în adicții – HUMAN CENTER, 10 credite profesionale (2024)",
+      "Servicii de sănătate mintală în context umanitar (MHPSS) – formare profesională în cadrul proiectului pentru refugiați ucraineni (2022–2024)",
+      "Dezvoltarea personală și profesională a psihoterapeutului relațional – AMPP, 40 credite profesionale (2023)",
+      "Master Class – Strategii de parenting (Consilier parental) – 120 credite profesionale (2022–2023)",
+      "Fundamentele Procesului de Coordonare Parentală – Debra K. Carter (2022)",
+      "NLP Practitioner, Time Line Therapy™, Hypnotherapy & Coaching – Crafting Minds (2021)",
+      "Certificat Consilier în dezvoltare personală – Avangarde Academy (2021)",
+      "Inteligență relațională – AMPP, program modular (2018)",
+      "Belbin Team Roles – Edurom Iași (2017)",
+      "Public Speaking – Amalia Sterescu (2016)",
+      "Project Manager – Schultz Consulting, București (2008)",
+      "Leadership Extraordinar – IRI Consulting, formator Gene Duckro (2007)"
+    ]
+  },
+  {
+    "slug": "gabriela-florea",
+    "name": "Gabriela Florea",
+    "role": "Psiholog clinician acreditat CPR | Psihoterapeut în formare EFT | Consilier dezvoltare personală",
+    "category": "Psihologie clinică",
+    "categorySlug": "psihologie",
+    "photo": "/assets/figma/despre-echipa-gabriela-florea.jpg",
+    "quote": "De aproape trei decenii lucrez cu oamenii, iar această apropiere constantă de experiența umană m-a învățat că schimbarea reală începe printr-un proces onest de lucru cu sinele. Astăzi creez un spațiu sigur și empatic, așezat pe experiență profesională și pe un parcurs personal de reflecție și transformare, în care claritatea, echilibrul și reconectarea cu resursele interioare pot prinde contur.",
+    "specializari": [
+      "Licență în Psihologie, Universitatea „Petre Andrei” Iași – Facultatea de Psihologie, Științele Educației și Asistență Socială, 2021–2024",
+      "Licență în Economie, Universitatea „Petre Andrei” Iași – Facultatea de Economie, 1995–2001",
+      "Master în Evaluare Clinică, Consiliere și Psihoterapie de Cuplu și Familie, Universitatea „Alexandru Ioan Cuza” Iași, 2024–2026",
+      "Consilier Dezvoltare Personală (COD COR 242324) – Asociația Centrul Român de Intervenție Socială și Psihoterapeutică (2015)",
+      "Management de teritoriu – CIO Management „Crescio Division” (2015)",
+      "Formator – „KREATIKON: Creativitate – Formare – Performanță”, ediția a XIX-a (2024)",
+      "Practică – grup de terapie adulți SANANDO, cabinet individual (2022–2024)",
+      "Practică – grup de terapie preadolescenți 9–13 ani, Cabinetul Individual de Psihologie „Roxana Mihăilă” (2022–2023)",
+      "Practică – Agenția Națională Antidrog (2023)",
+      "Practică – „Robu V. & Caranfil N. Societate Civilă Profesională de Psihologie” Iași (2023–2024): evaluare psihologică la angajare, evaluare psiho-aptitudinală periodică, evaluare psihologică la schimbare/promovare în carieră",
+      "Participări la conferințe, congrese și workshopuri:",
+      "2022 – 47th Congress of the Romanian Society of Neurosurgery, 26th French Course in Neurosurgery & 4th National Congress of Modern Neurosciences – Spitalul Clinic de Urgență „Prof. Dr. Nicolae Oblu” și Societatea Română de Neurochirurgie",
+      "2022 – Conferința Națională „Școala de Toamnă a Tinerilor Neurochirurgi” – Spitalul Clinic de Urgență „Prof. Dr. Nicolae Oblu” și Societatea Română de Neurochirurgie",
+      "2023 – Conferința „Incursiune în Terapia Experiențială” – Universitatea „Petre Andrei” Iași",
+      "2023 – Congresul Național de Neuroștiințe Moderne din România, ediția a V-a – Asociația Human Brain Academy, cu sprijinul Ministerului Sănătății și al Societății Române de Neurochirurgie",
+      "2023 – Conferința „Terapii Holistice – Nu mă lăsa singur. Jurnal de transformare” – Universitatea „Petre Andrei” Iași",
+      "2023 – Neurocon – eveniment pentru studenți și profesioniști aspiranți în neuroștiință, neuropsihologie și neurobiologie",
+      "2023 – Conferința Internațională de Psihotraumatologie, ediția a VII-a – „Traumă, sănătate mentală și comunitate – care este contribuția noastră?”",
+      "2023 – Conferința „Risc, prevenție și asistența consumatorilor de droguri” – Universitatea „Petre Andrei” Iași, în colaborare cu Universitatea Tehnică „Gh. Asachi” Iași și Centrul de Prevenire, Evaluare și Consiliere Antidrog Iași",
+      "2023 – International Conference „Social Assistance in the Context of Accelerated Social Changes” – Universitatea „Petre Andrei” Iași",
+      "2024 – Prelegere „Dealing with recovered memories of abuse in the legal arena” (Henry Otgaar, Maastricht University) – MSB Medical School Berlin",
+      "2024 – Prelegere „What criminal career research can contribute to the risk assessment in cases of preventive detention” (Prof. Arjan Blokland) – MSB Medical School Berlin",
+      "2024 – Simpozionul Național de Neuroștiințe Moderne „Bolile Rare și Autoimune. Noi tendințe în diagnostic și tratament” – Congresul Național de Neuroștiințe Moderne",
+      "2024 – Simpozionul Național de Neuroștiințe Moderne „Atrofia Musculară Spinală la Adult. Abordare practică și opțiuni terapeutice” – Congresul Național de Neuroștiințe Moderne",
+      "2024 – Conferința „Hipnoza în psihoterapie” – Universitatea „Petre Andrei” Iași",
+      "2024 – Workshop „Departamentul de Resurse Umane vs. Departamentul Psihologia Muncii” – Simpozionul Național KREATIKON, ediția a XIX-a",
+      "2024 – Workshop „Neuroștiința aplicată în clasa de elevi – cuvinte care înalță, încurajează, vindecă” – Simpozionul Național KREATIKON, ediția a XIX-a",
+      "2024 – Workshop „Abordarea multidisciplinară a consumatorilor de droguri și prezentarea programului de practică de specialitate” – Simpozionul Național KREATIKON, ediția a XIX-a",
+      "2024 – Workshop „Fenomenul bullying la vârste școlare – ghid de conștientizare și educație pentru diriginții de gimnaziu și liceu” – Simpozionul Național KREATIKON, ediția a XIX-a",
+      "2024 – Workshop „Managementul timpului: strategii și măsuri practice” – Simpozionul Național KREATIKON, ediția a XIX-a",
+      "2025 – Conferința Națională „Sprijinul psihologic și costurile reabilitării după accidentele de muncă. Rolul psihologiei judiciare și criminalisticii” – Universitatea „Petre Andrei” Iași",
+      "2025 – „Cyberbullying-ul – un pericol ascuns al mediului virtual? Strategii preventive” – Simpozionul Național KREATIKON, ediția a XX-a",
+      "2025 – „Susținerea copiilor în procesarea durerii unei pierderi. Intervenție psihologică și educațională” – Simpozionul Național KREATIKON, ediția a XX-a",
+      "2025 – „Tulburările de neurodezvoltare. Diagnostic clinic. Elemente-cheie ale evaluării” – Simpozionul Național KREATIKON, ediția a XX-a"
+    ]
+  },
+  {
+    "slug": "andrei-laurus",
+    "name": "Andrei Laurus",
+    "role": "Balneofiziokinetoterapeut",
+    "category": "Recuperare medicală",
+    "categorySlug": "recuperare",
+    "photo": "/assets/figma/despre-echipa-andrei-laurus.jpg",
+    "quote": "Recuperarea cere perseverență, implicare și profesionalism. Prin efort constant și abordare corectă te apropii de vindecare, echilibru și libertatea de a te mișca fără durere.",
+    "specializari": [
+      "Absolvent al Universității „Ștefan cel Mare” Suceava, Facultatea de Educație fizică și Sport, Departamentul de Sănătate, Balneofiziokinetoterapie și Recuperare medicală",
+      "Master Bioingineria reabilitării – Universitatea de Medicină și Farmacie „Grigore T. Popa” din Iași",
+      "Tehnici neuromusculare în neuropatiile membrelor inferioare – lector Nicolae-Vlad Chihaia",
+      "Tehnici neurodinamice utilizate în kinetoterapia pacienților cu radiculopatii lombosacrale – lector Nicolae-Vlad Chihaia",
+      "Instabilitatea clinică a coloanei lombare. Tehnici și strategii kinetoterapeutice – Nicolae-Vlad Chihaia",
+      "Electrostimulare EMS și TENS în terapia de recuperare – Asociația Kinetoterapeuților din Bucovina",
+      "Curs nivel 1 Terapie Yumeiho",
+      "Curs aprofundare Terapie Yumeiho – profesor formator Mihai Mironde",
+      "Evaluare și recuperare neuro-vestibulară – formator acreditat Framial, Franța – Ramona Pavel",
+      "Curs ATM Reechilibrare și reeducare – Physio Sport Therapy Academy",
+      "Master posturologie clinică – Physio Sport Therapy Academy",
+      "Certificat de competență lingvistică limba engleză – Centrul de limbi și culturi străine Synergia Linguarium USV Suceava"
+    ]
+  },
+  {
+    "slug": "adelina-streanga",
+    "name": "Adelina Ștreangă",
+    "role": "Balneofiziokinetoterapeut",
+    "category": "Recuperare medicală",
+    "categorySlug": "recuperare",
+    "photo": "/assets/figma/despre-echipa-adelina-streanga.jpg",
+    "quote": "Pas cu pas, mișcarea devine din nou sursă de bucurie, încredere și libertate; așa cum ar trebui să fie fiecare clipă din viața ta.",
+    "specializari": [
+      "Absolventă a Universității de Medicină și Farmacie „Grigore T. Popa” Iași, specializarea Balneofiziokinetoterapie și recuperare medicală",
+      "Master: Bioingineria reabilitării",
+      "Certificat de calificare profesională ca maseur (masaj terapeutic, de relaxare, anticelulitic, drenaj limfatic și reflexoterapie)",
+      "Curs Posturologie Clinică modulul I, II și III",
+      "Curs ATM – reechilibrarea și reeducarea articulației temporomandibulare",
+      "Curs Fasciq – manipularea fasciei cu ajutorul instrumentelor IASTM",
+      "Curs Evaluare și recuperare neurovestibulară"
+    ]
+  },
+  {
+    "slug": "madalina-davidescu",
+    "name": "Mădălina Davidescu",
+    "role": "Balneofiziokinetoterapeut",
+    "category": "Recuperare medicală",
+    "categorySlug": "recuperare",
+    "photo": "/assets/figma/despre-echipa-madalina-davidescu.jpg",
+    "quote": "Succesul în recuperare nu vine din ceea ce faci din când în când, ci din ceea ce faci în fiecare zi. Perseverența este podul dintre durerea de azi și libertatea de mâine.",
+    "specializari": [
+      "Absolventă a Universității de Medicină și Farmacie „Grigore T. Popa” Iași, specializarea Balneofiziokinetoterapie și recuperare",
+      "Master: Bioingineria reabilitării",
+      "Curs Posturologie Clinică",
+      "Curs ATM – reechilibrarea și reeducarea articulației temporomandibulare",
+      "Curs Fasciq – manipularea fasciei cu ajutorul instrumentelor IASTM",
+      "Curs Evaluare și recuperare neurovestibulară"
+    ]
+  },
+  {
+    "slug": "victoria-pintilie",
+    "name": "Victoria Pintilie",
+    "role": "Balneofiziokinetoterapeut",
+    "category": "Recuperare medicală",
+    "categorySlug": "recuperare",
+    "photo": "/assets/figma/despre-echipa-victoria-pintilie.jpg",
+    "quote": "Transformă durerea în pași spre vindecare. Împreună transformăm efortul în progres și progresul în putere.",
+    "specializari": [
+      "Absolventă a Facultății de Educație Fizică și Sport, Universitatea „Alexandru Ioan Cuza” din Iași, specializare în traumatologie sportivă și geriatrie",
+      "Curs „Dry Needling” – tratarea durerii și a disfuncțiilor musculo-scheletale",
+      "Curs ATM – tratarea disfuncțiilor articulației temporo-mandibulare",
+      "Curs Fasciq – manipularea fasciei cu instrumentele IASTM",
+      "Curs Posturologie Clinică",
+      "Bandajare sportivă cu benzi kinesiologice",
+      "Curs de prim-ajutor și utilizarea aparatelor de acordare a primului ajutor – „Serviciul Voluntar de Ambulanță” Iași"
+    ]
+  },
+  {
+    "slug": "daniel-hutanu",
+    "name": "Daniel Huțanu",
+    "role": "Balneofiziokinetoterapeut",
+    "category": "Recuperare medicală",
+    "categorySlug": "recuperare",
+    "photo": "/assets/figma/despre-echipa-daniel-hutanu.jpg",
+    "quote": "Fiecare exercițiu este un pas înainte spre redobândirea libertății tale. Ai răbdare cu corpul tău pentru că el știe să se vindece atunci când îl sprijini cu perseverență și încredere.",
+    "specializari": [
+      "Absolvent al Facultății de Educație Fizică și Sport, Universitatea „Alexandru Ioan Cuza” din Iași, profil Kinetoterapie",
+      "Kinetoterapeut cu peste 15 ani de experiență",
+      "Deținător gradul 2 terapia Yumeiho – profesor formator Mihai Mirodone"
+    ]
+  },
+  {
+    "slug": "adelina-bonceag",
+    "name": "Adelina Bonceag",
+    "role": "Balneofiziokinetoterapeut",
+    "category": "Recuperare medicală",
+    "categorySlug": "recuperare",
+    "quote": "",
+    "specializari": []
+  },
+  {
+    "slug": "eliza-elena-partene",
+    "name": "Eliza-Elena Partene",
+    "role": "Asistent medical generalist",
+    "category": "Asistenți medicali",
+    "categorySlug": "asistenti-medicali",
+    "photo": "/assets/figma/despre-echipa-eliza-partene.jpg",
+    "quote": "Fă astăzi ceva pentru care corpul tău îți va mulțumi mâine!",
+    "specializari": [
+      "Absolventă a Universității de Medicină și Farmacie „Grigore T. Popa” Iași",
+      "Specializare: Asistent medical generalist",
+      "Curs de prim ajutor „Părinți salvatori”"
+    ]
+  },
+  {
+    "slug": "ana-maria-manache",
+    "name": "Ana-Maria Manache",
+    "role": "Asistent medical generalist",
+    "category": "Asistenți medicali",
+    "categorySlug": "asistenti-medicali",
+    "photo": "/assets/figma/despre-echipa-ana-maria-manache.jpg",
+    "quote": "Empatia nu se învață din cărți. Se oferă din inimă.",
+    "specializari": []
+  },
+  {
+    "slug": "sabina-gabriela-stratescu",
+    "name": "Sabina-Gabriela Strătescu",
+    "role": "Asistent medical generalist",
+    "category": "Asistenți medicali",
+    "categorySlug": "asistenti-medicali",
+    "photo": "/assets/figma/despre-echipa-sabina-stratescu.jpg",
+    "quote": "Terapia potrivită poate fi începutul unei noi povești de viață. Noi credem în forța de vindecare a fiecărui pacient. Trupul are resurse uimitoare de vindecare. Noi îl ajutăm să și le descopere.",
+    "specializari": [
+      "Școala Postliceală „Grigore Ghica Vodă” Iași, Asistent medical generalist",
+      "Curs de Prim Ajutor în cadrul Echipajului AMU",
+      "Voluntar PA în echipa AMU Prespital, în cadrul SAJ Iași"
+    ]
+  },
+  {
+    "slug": "gabriela-domonco",
+    "name": "Gabriela Domonco",
+    "role": "Asistent medical generalist",
+    "category": "Asistenți medicali",
+    "categorySlug": "asistenti-medicali",
+    "photo": "/assets/figma/despre-echipa-gabriela-domonco.jpg",
+    "quote": "Un pacient care se simte înțeles și sprijinit are o șansă mai mare de vindecare.",
+    "specializari": [
+      "Absolventă a Universității de Medicină și Farmacie „Grigore T. Popa” Iași",
+      "Specializare: Asistent medical generalist"
+    ]
+  },
+  {
+    "slug": "diana-laurus",
+    "name": "Diana Laurus",
+    "role": "Asistent medical generalist",
+    "category": "Asistenți medicali",
+    "categorySlug": "asistenti-medicali",
+    "quote": "Sănătatea începe cu fiecare alegere pe care o faci – corpul, mintea și starea ta de bine depind de atenția pe care ți-o acorzi.",
+    "specializari": [
+      "Absolventă a Universității de Medicină și Farmacie „Grigore T. Popa” Iași, specializarea Asistență medicală generală",
+      "Master: Managementul serviciilor de sănătate în domeniul medico-farmaceutic"
+    ]
+  },
+  {
+    "slug": "lavinia-lazar",
+    "name": "Lavinia Lazăr",
+    "role": "Asistent medical generalist",
+    "category": "Asistenți medicali",
+    "categorySlug": "asistenti-medicali",
+    "quote": "",
+    "specializari": []
+  },
+  {
+    "slug": "georgiana-potorac",
+    "name": "Georgiana Potorac",
+    "role": "Recepție",
+    "category": "Recepție",
+    "categorySlug": "receptie",
+    "photo": "/assets/figma/despre-echipa-georgiana-potorac.jpg",
+    "quote": "Vindecarea este un drum, iar noi suntem alături de tine la fiecare pas.",
+    "specializari": [
+      "Absolventă a Facultății de Filosofie și Științe Social Politice, Universitatea „Alexandru Ioan Cuza” Iași, specializarea Comunicare și Relații Publice"
+    ]
+  },
+  {
+    "slug": "patricia-hanganu",
+    "name": "Patricia Hânganu",
+    "role": "Recepție",
+    "category": "Recepție",
+    "categorySlug": "receptie",
+    "quote": "Comunicarea dintre noi nu este doar despre programări și informații, ci despre sprijin, empatie și înțelegerea nevoilor tale. Orice vindecare începe cu o vorbă bună. Vrem să-ți auzim povestea!",
+    "specializari": [
+      "Absolventă a Facultății de Filosofie și Științe Social Politice, Universitatea „Alexandru Ioan Cuza” Iași, specializarea Comunicare și Relații Publice"
+    ]
+  }
+]

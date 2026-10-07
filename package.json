@@ -1,0 +1,29 @@
+{
+  "name": "ozonium-clinic",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "typecheck": "tsc --noEmit",
+    "test:browser": "node scripts/verify-site.mjs",
+    "test:coverage": "node scripts/verify-coverage.mjs",
+    "test:expanded": "node scripts/verify-expanded.mjs",
+    "format": "prettier --write app components lib scripts package.json tsconfig.json next.config.ts README.md"
+  },
+  "dependencies": {
+    "lucide-react": "^1.52.0",
+    "next": "^16.4.0",
+    "react": "^19.3.0",
+    "react-dom": "^19.3.0"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.63.0",
+    "@types/node": "^26.6.4",
+    "@types/react": "^19.3.0",
+    "@types/react-dom": "^19.3.0",
+    "prettier": "^3.9.9",
+    "typescript": "^7.0.2"
+  }
+}
